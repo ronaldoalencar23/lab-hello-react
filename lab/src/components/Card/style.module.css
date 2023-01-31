@@ -1,0 +1,25 @@
+.container {
+  background-color: #202534;
+  height: 50vh;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header img {
+  padding: 40px;
+}
+
+.logo {
+  height: 48px;
+}
+
+.menu {
+  height: 24px;
+}
+
+.text {
+  color: white;
+}
